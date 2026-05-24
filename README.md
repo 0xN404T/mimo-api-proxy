@@ -42,3 +42,15 @@ Use MiMo behind tools that expect an OpenAI-compatible server:
 
 ## Why Xiaomi MiMo
 This project makes MiMo easier to plug into existing AI tooling without rewriting every client.
+
+## Project Maturity
+- MVP code available
+- Architecture documented
+- Roadmap documented
+- CI configured
+- MIT licensed
+
+## Links
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Examples](examples/basic.md)
