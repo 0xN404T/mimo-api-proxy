@@ -1,18 +1,15 @@
-# MiMo API Proxy
+# mimo-api-proxy
 
-Lightweight proxy server for Xiaomi MiMo API with rate limiting, logging, and fallback routing.
+Real prototype for Xiaomi MiMo 100T creator program.
 
-## Features
-- API key management
-- Request logging
-- Token usage tracking
-- Streaming response support
-- OpenAI-compatible endpoint format
+## Purpose
+This project demonstrates practical Xiaomi MiMo API usage for developer workflows.
 
-## Tech Stack
-- Python FastAPI
-- SQLite
-- Xiaomi MiMo API
+## Run
+See source files and `.env.example`.
 
 ## Status
-Prototype planned for Xiaomi MiMo 100T creator program.
+Working MVP skeleton with real code paths, environment config, and CLI/API entrypoints.
+
+## Author
+0xN404T
